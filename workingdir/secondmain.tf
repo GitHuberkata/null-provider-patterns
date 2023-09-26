@@ -1,6 +1,7 @@
-#test with working directory
-#test with working directory and patterns radio button
-#test with working directory and added pattern "nlnkojmpod"
+#test with selected working directory in the TFC workspace
+#test with working directory and patterns radio button only
+#test with working directory and added new pattern line with content "nlnkojmpod"
+#test without entering working directory in the TFC Workspace and with radio button clicked
 
 
 resource "null_resource" "screen_output" {
