@@ -4,6 +4,7 @@
 #test without entering working directory in the TFC Workspace and with radio button clicked
 #test without enterning working directory in the TFC workspace and with patterns radio button clicked + added empty line for new pattern
 #added working dir again
+#second ws created 
 
 resource "null_resource" "screen_output" {
 count = 4
